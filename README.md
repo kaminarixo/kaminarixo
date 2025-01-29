@@ -16,4 +16,5 @@ Hey there, I’m Kaminarixo! <img src="https://media.giphy.com/media/hvRJCLFzcas
 - If you have an interesting idea or need a developer for a project, feel free to reach out
 
 📬 How to Reach Me
+
 GitHub: kaminarixo

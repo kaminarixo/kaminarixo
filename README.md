@@ -1,4 +1,5 @@
 Hey there, I’m Kaminarixo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
 👨‍💻 About Me
 - Recently finished my apprenticeship
 - Currently working as a NAV Developer (Versions 5.0, 17, 18, and Business Central)

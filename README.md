@@ -18,3 +18,4 @@ Hey there, I’m Kaminarixo! <img src="https://media.giphy.com/media/hvRJCLFzcas
 📬 How to Reach Me
 
 GitHub: kaminarixo
+XING: https://www.xing.com/profile/Thomas_Scharf070359

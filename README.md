@@ -20,3 +20,4 @@ Hey there, I’m Kaminarixo! <img src="https://media.giphy.com/media/hvRJCLFzcas
 GitHub: kaminarixo
 
 XING: https://www.xing.com/profile/Thomas_Scharf070359
+Mail: tscharf@tsd-studio.de
